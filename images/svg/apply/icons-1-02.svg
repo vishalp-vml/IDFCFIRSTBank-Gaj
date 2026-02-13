@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 94.17 83.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: url(#GradientFill_2);
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+        stroke: #000;
+        stroke-width: .56px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="60.31" y1="-3023.46" x2="32.81" y2="-3121.98" gradientTransform="translate(0 -3029.28) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#232722"/>
+      <stop offset=".52" stop-color="#2f4029"/>
+      <stop offset="1" stop-color="#0d3b0b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="33.92" y1="41.87" x2="74.72" y2="41.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#caa43b"/>
+      <stop offset=".53" stop-color="#efe565"/>
+      <stop offset="1" stop-color="#caa43b"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_2" data-name="GradientFill 2" x1="19.07" y1="40.47" x2="53.71" y2="40.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#caa43b"/>
+      <stop offset=".53" stop-color="#efe565"/>
+      <stop offset="1" stop-color="#caa43b"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_2">
+      <circle class="cls-3" cx="47" cy="41.87" r="41.87"/>
+      <g>
+        <path class="cls-1" d="M74.72,42.72c0,11.99-9.75,21.74-21.74,21.74-7.89,0-15.17-4.28-19-11.18-.13-.24-.05-.53.18-.66.07-.04.16-.06.24-.06.17,0,.33.09.41.24,3.68,6.6,10.64,10.7,18.17,10.7,11.45,0,20.77-9.32,20.77-20.78s-9.32-20.77-20.77-20.77c-3.92,0-7.73,1.1-11.02,3.17l-1.49.92h6.02c.27,0,.49.21.49.48s-.22.48-.49.48h-7.39v-7.23c0-.26.22-.48.48-.48s.48.22.48.48v5.45l.78-.52c3.6-2.43,7.8-3.71,12.14-3.71,11.99,0,21.74,9.75,21.74,21.73Z"/>
+        <path class="cls-2" d="M49.66,29.63h-26.53c-2.03,0-3.68,1.64-3.68,3.67v14.34c0,2.03,1.65,3.67,3.68,3.67h26.53c2.03,0,3.68-1.64,3.68-3.67v-14.34c0-2.03-1.65-3.67-3.68-3.67ZM19.45,36.85h33.89"/>
+      </g>
+    </g>
+  </g>
+</svg>
