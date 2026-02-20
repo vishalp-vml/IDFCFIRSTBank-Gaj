@@ -30,7 +30,7 @@ window.addEventListener("load", () => {
 
     console.log(context.conditions);
 
-    const imgTl = gsap.timeline({ repeat: 1 });
+    const imgTl = gsap.timeline({ repeat: 0 });
 
     imgTl
       .to(".img1", { autoAlpha: 1, duration: 0.5 })
