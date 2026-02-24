@@ -72,7 +72,7 @@ window.addEventListener("load", () => {
     tl.fromTo(".credit-card",
       {
         scale: mobile ? 3.5 : 2.2,
-        autoAlpha: 0.8,
+        autoAlpha: 1,
         xPercent: mobile ? -21 : -10,
       },
       {
